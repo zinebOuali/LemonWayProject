@@ -1,0 +1,15 @@
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\bin\Debug\log4net.config
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\bin\Debug\WebServices.WindowsClient.exe.config
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\bin\Debug\WebServices.WindowsClient.exe
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\bin\Debug\WebServices.WindowsClient.pdb
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\bin\Debug\log4net.dll
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\bin\Debug\log4net.xml
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\obj\Debug\WebServices.WindowsClient.csprojAssemblyReference.cache
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\obj\Debug\WebServices.WindowsClient.Form1.resources
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\obj\Debug\WebServices.WindowsClient.Properties.Resources.resources
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\obj\Debug\WebServices.WindowsClient.csproj.GenerateResource.cache
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\obj\Debug\WebServices.WindowsClient.csproj.CopyComplete
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\obj\Debug\WebServices.WindowsClient.exe
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.WindowsClient\obj\Debug\WebServices.WindowsClient.pdb

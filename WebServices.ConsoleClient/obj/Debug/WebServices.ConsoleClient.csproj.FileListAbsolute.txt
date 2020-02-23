@@ -1,0 +1,10 @@
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.ConsoleClient\bin\Debug\log4net.config
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.ConsoleClient\bin\Debug\WebServices.ConsoleClient.exe.config
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.ConsoleClient\bin\Debug\WebServices.ConsoleClient.exe
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.ConsoleClient\bin\Debug\WebServices.ConsoleClient.pdb
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.ConsoleClient\bin\Debug\log4net.dll
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.ConsoleClient\bin\Debug\log4net.xml
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.ConsoleClient\obj\Debug\WebServices.ConsoleClient.csprojAssemblyReference.cache
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.ConsoleClient\obj\Debug\WebServices.ConsoleClient.csproj.CopyComplete
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.ConsoleClient\obj\Debug\WebServices.ConsoleClient.exe
+C:\Users\Zineb\source\repos\LemonWayChallege\WebServices.ConsoleClient\obj\Debug\WebServices.ConsoleClient.pdb
